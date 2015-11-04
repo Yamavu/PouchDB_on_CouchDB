@@ -29,4 +29,4 @@ origins = *
 
 This is basically 
 [A simple Task-list application in CouchDB](http://www.speqmath.com/tutorials/couchdb_tasklist/index.html)
-with PouchDB support
+with PouchDB support 
